@@ -1,1 +1,1 @@
-# Furb: Seminario sobre BigData e DataMinig
+# Furb: Seminario sobre BigData e DataMining
